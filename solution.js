@@ -24,4 +24,3 @@ function twoUniqueNumbers(nums, target){
 
 }
 
-console.log(twoUniqueNumbers([2, 6, 5, 4], 10));
